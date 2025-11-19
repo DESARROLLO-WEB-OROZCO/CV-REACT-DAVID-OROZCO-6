@@ -1,0 +1,24 @@
+.tags-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.tag {
+  padding: 0.4rem 0.7rem;
+  border-radius: 999px;
+  font-size: 0.9rem;
+  color: white;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.tag-js { background: #f0db4f; color: #222; }
+.tag-react { background: #61dafb; color: #0b2a3b; }
+.tag-node { background: #68a063; color: white; }
+.tag-css { background: #264de4; }
+.tag-html { background: #e34f26; }
+.tag-git { background: #f1502f; }
+.tag-default { background: #6b7280; }
