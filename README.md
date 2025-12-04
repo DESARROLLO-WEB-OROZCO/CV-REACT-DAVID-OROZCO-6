@@ -94,7 +94,7 @@ Captura del resultado
 
 Asegúrate de haber guardado tu imagen en la carpeta CAPTURAS/
 Ejemplo:
-![alt text](CAPTURAS/image.png)
+![Vista previa](CAPTURAS/image.png)
 Autor
 
 David Orozco
